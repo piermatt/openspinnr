@@ -9,6 +9,9 @@ The original full-dimension electrospinning apparatus.
 ## Ver_B
 The "little brother" version. It is cheaper (approx. 50Eur), faster to 3D print and to assemble. 
 
+![Electrospinning setups](https://github.com/piermatt/openspinnr/blob/main/electrospinner.jpg)
+
+
 ## Additional info
 BOM is included within the directory. Please 
 For more info on the open source project see:
